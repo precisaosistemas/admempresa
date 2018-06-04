@@ -1,13 +1,13 @@
 ;aiu;
 
 [Update]
-Name = INOVAFARMA API
-ProductVersion = 2.9.2
-URL = https://github.com/precisaosistemas/inovafarma-api/releases/download/v2.9.2/inovafarma-api-2.9.2.exe
+Name = ADMEMPRESA
+ProductVersion = 1.2.2
+URL = https://github.com/precisaosistemas/admempresa/releases/download/v1.2.2/ADMEmpresa-1.2.2.exe
 Size = 22736776
 MD5 = 488cb0ff004852b1a128a2300ba3ccef
 CommandLine = /exenoui /qn
-ServerFileName = inovafarma-api-2.9.2.exe
+ServerFileName = ADMEmpresa-1.2.2.exe
 Flags = SilentInstall|NoRedetect
-RegistryKey = HKUD\Software\Precisao Sistemas\INOVAFARMA API\Version
-Version = 2.9.2
+RegistryKey = HKUD\Software\Precisao Sistemas\ADMEmpresa\Version
+Version = 1.2.2
