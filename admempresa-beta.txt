@@ -4,8 +4,8 @@
 Name = ADMEMPRESA
 ProductVersion = 1.47.5
 URL = https://github.com/precisaosistemas/admempresa/releases/download/v1.47.5/admempresa-1.47.5.exe
-Size = 18059592
-MD5 = b219d8654695b31fb0a20c1152dd4ba0
+Size = 0
+MD5 = 
 CommandLine = /exenoui /qn
 ServerFileName = admempresa-1.47.5.exe
 Flags = SilentInstall|NoRedetect
