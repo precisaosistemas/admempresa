@@ -2,12 +2,12 @@
 
 [Update]
 Name = ADMEMPRESA
-ProductVersion = 1.84.42
-URL = https://github.com/precisaosistemas/admempresa/releases/download/v1.84.42/admempresa-1.84.42.exe
-Size = 19171928
-MD5 = 4db0be55f46cda54cc39e008eae6c35f
+ProductVersion = 1.84.43
+URL = https://github.com/precisaosistemas/admempresa/releases/download/v1.84.43/admempresa-1.84.43.exe
+Size = 19161304
+MD5 = 768f95af7f31c1b4538e3da4b9a05271
 CommandLine = /exenoui /qn
-ServerFileName = admempresa-1.84.42.exe
+ServerFileName = admempresa-1.84.43.exe
 Flags = SilentInstall|NoRedetect
 RegistryKey = HKUD\Software\Precisao Sistemas\ADMEmpresa\Version
-Version = 1.84.42
+Version = 1.84.43
