@@ -4,8 +4,8 @@
 Name = ADMEMPRESA
 ProductVersion = 1.96.6
 URL = https://github.com/precisaosistemas/admempresa/releases/download/v1.96.6/admempresa-1.96.6.exe
-Size = 19454300
-MD5 = 45730f00ccbe4853ec506f0be54470ad
+Size = 0
+MD5 = 
 CommandLine = /exenoui /qn
 ServerFileName = admempresa-1.96.6.exe
 Flags = SilentInstall|NoRedetect
